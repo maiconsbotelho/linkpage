@@ -16,10 +16,11 @@ O objetivo do projeto é criar uma página de links visualmente atraente e funci
 
 [![Next.js](https://img.shields.io/badge/Next.js-React_Framework-black)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-Library-blue)](https://reactjs.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Utility-first-blue)](https://tailwindcss.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Utility--first-blue)](https://tailwindcss.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Strongly_Typed_JavaScript-blue)](https://www.typescriptlang.org/)
 [![GitHub](https://img.shields.io/badge/GitHub-Source_Code-black)](https://github.com/seu-usuario/linkpage)
 [![Vercel](https://img.shields.io/badge/Vercel-Deployment-blue)](https://vercel.com/)
+
 
 ## Capturas de Tela
 
