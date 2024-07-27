@@ -4,7 +4,7 @@ LinkPage é uma LandingPage desenvolvida com Next.js que oferece uma página de 
 
 O objetivo do projeto é criar uma página de links visualmente atraente e funcional, utilizando as mais recentes tecnologias web para garantir performance e design de alta qualidade.
 
-**Acesse a [LinkPage](https://vercel.com/maicons-projects-13c41b26/linkpage)** para experimentar!
+**Acesse a [LinkPage](https://maiconbotelho-linkpage.vercel.app/)** para experimentar!
 
 ## Funcionalidades
 
