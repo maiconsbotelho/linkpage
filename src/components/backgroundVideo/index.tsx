@@ -19,7 +19,7 @@ const BackgroundVideo: React.FC<BgVideoProps> = ({
         loop={loop}
         muted={muted}
       />
-      <div className="relative z-10 flex h-full w-full items-center justify-center">{children}</div>
+      <div className="relative z-10 flex h-full w-full">{children}</div>
     </div>
   );
 };

@@ -1,36 +1,35 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# LinkPage
 
-## Getting Started
+LinkPage é uma LandingPage desenvolvida com Next.js que oferece uma página de links personalizada, ideal para exibir uma lista de links de maneira estilizada e eficiente. O projeto foi projetado para ser responsivo e fornecer uma experiência consistente em diferentes dispositivos, desde desktops até dispositivos móveis.
 
-First, run the development server:
+O objetivo do projeto é criar uma página de links visualmente atraente e funcional, utilizando as mais recentes tecnologias web para garantir performance e design de alta qualidade.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+**Acesse a [LinkPage](http://localhost:3000)** para experimentar!
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Funcionalidades
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Página de Links Personalizada**: Exibe uma lista de links com ícones e descrições, todos estilizados para um visual atraente.
+- **Design Responsivo**: A página se ajusta automaticamente a diferentes tamanhos de tela, garantindo uma boa experiência em qualquer dispositivo.
+- **Integração com Redes Sociais**: Inclua links para perfis em redes sociais com ícones personalizados.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Tecnologias Utilizadas
 
-## Learn More
+[![Next.js](https://img.shields.io/badge/Next.js-React_Framework-black)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-Library-blue)](https://reactjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Utility-first-blue)](https://tailwindcss.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-Strongly_Typed_JavaScript-blue)](https://www.typescriptlang.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-Source_Code-black)](https://github.com/seu-usuario/linkpage)
+[![Vercel](https://img.shields.io/badge/Vercel-Deployment-blue)](https://vercel.com/)
 
-To learn more about Next.js, take a look at the following resources:
+## Capturas de Tela
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![Captura de Tela 1](https://raw.githubusercontent.com/seu-usuario/linkpage/main/assets/screenshots/screenshot1.jpg)
+![Captura de Tela 2](https://raw.githubusercontent.com/seu-usuario/linkpage/main/assets/screenshots/screenshot2.jpg)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Contribuição
 
-## Deploy on Vercel
+Contribuições são bem-vindas! Sinta-se à vontade para sugerir melhorias, relatar problemas ou enviar pull requests.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Autor
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Maicon Botelho - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Maicon_Botelho-blue)](https://www.linkedin.com/in/maiconbotelho/)

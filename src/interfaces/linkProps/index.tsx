@@ -1,7 +1,6 @@
-import { ReactElement } from 'react';
-
 export interface LinksProps {
-  icon: ReactElement;
+  imgSrc: string;
   title: string;
   href: string;
+  imgClass?: string;
 }
