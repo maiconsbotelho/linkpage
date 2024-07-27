@@ -23,8 +23,7 @@ O objetivo do projeto é criar uma página de links visualmente atraente e funci
 
 ## Capturas de Tela
 
-![Captura de Tela 1](https://raw.githubusercontent.com/seu-usuario/linkpage/main/assets/screenshots/screenshot1.jpg)
-![Captura de Tela 2](https://raw.githubusercontent.com/seu-usuario/linkpage/main/assets/screenshots/screenshot2.jpg)
+![Captura de Tela](https://raw.githubusercontent.com/maiconsbotelho/linkpage/main/public/SpiderLinks.png)
 
 ## Contribuição
 
